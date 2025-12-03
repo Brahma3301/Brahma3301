@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 - 💬 Ask me about **Flutter**
-- 📫 How to reach me **vagun.babbar@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
